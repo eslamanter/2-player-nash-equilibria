@@ -1,2 +1,5 @@
 # 2-Player Nash Equilibria
-Pure Strategy Nash Equilibria Solver For Finite 2-Player Simultaneous Move Games
+
+Pure strategy Nash equilibria solver for finite 2-player simultaneous move games.
+
+16/02/2022 | Eslam Abdullah
