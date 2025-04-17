@@ -2,4 +2,4 @@
 
 Pure strategy Nash equilibria solver for finite 2-player simultaneous move games.
 
-16/02/2022 | Eslam Abdullah
+12/04/2022 | Eslam Abdullah
